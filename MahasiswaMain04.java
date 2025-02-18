@@ -3,6 +3,7 @@ public class MahasiswaMain04 {
         Mahasiswa04 mhs1 = new Mahasiswa04();
         mhs1.nama = "Fajarunudinkun";
         mhs1.nim = "22412721071";
+        mhs1.kelas = "Kelas 1F";
         mhs1.ipk = 3.55;
 
         mhs1.tampilkanInformasi();
